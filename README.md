@@ -5,6 +5,8 @@
 ## 🚀 **Project Overview**  
 This project focuses on predicting **audience ratings** using a well-structured **machine learning pipeline**. The goal is to analyze audience preferences and trends based on historical data. The model follows a systematic approach, including **data preprocessing, feature transformation, model training, and evaluation**. A **Random Forest Regressor** is used to predict audience ratings, ensuring a balance between **performance and interpretability**.  
 
+📂 **Dataset Used:** `Rotten_Tomatoes_Movies3.xls`
+
 ---
 
 ## 🛠 **Tools & Technologies Used**  
